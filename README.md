@@ -104,5 +104,5 @@ Hi, I'm **Bao**, based in Ho Chi Minh City, Vietnam.
 </p>
 
 <p align="center">
-  <i>Made Bao — an IT student from HCMUS.</i>
+  <i>Made by Bao — an IT student from HCMUS.</i>
 </p>
